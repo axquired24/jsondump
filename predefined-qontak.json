@@ -1,10 +1,10 @@
 [
     {
-        title: "Pintek Instant",
-        url: "https://pintek.id/pintek-instant",
-        subtitle: "Belajar Dulu, Bayar Nanti",
-        image_url: "https://pintek.id/assets/v3/img/logo/logo-instant.png",
-        description: "Keringanan bagi orang tua untuk semua kebutuhan pendidikan, instant approval, cair dalam 1 jam langsung ke sekolah.",
-        button_text: "Ajukan Sekarang"
+        "title": "Pintek Instant",
+        "url": "https://pintek.id/pintek-instant",
+        "subtitle": "Belajar Dulu, Bayar Nanti",
+        "image_url": "https://pintek.id/assets/v3/img/logo/logo-instant.png",
+        "description": "Keringanan bagi orang tua untuk semua kebutuhan pendidikan, instant approval, cair dalam 1 jam langsung ke sekolah.",
+        "button_text": "Ajukan Sekarang"
     }
  ]
